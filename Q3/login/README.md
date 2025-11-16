@@ -31,9 +31,10 @@ npm run dev
 
 ### Login credentials (hardcoded)
 
-Email	            Password
-test@example.com    Test@1234
-osman@example.com   Pass@123
-abcde@email.com     Abcde@12345
+| Email  | Password |
+| ------------- | ------------- |
+| test@example.com  | Test@1234  |
+| osman@example.com  | Pass@123  |
+| abcde@email.com  |  Abcde@12345  |
 
 After successfully logged in, it will show a welcome message
