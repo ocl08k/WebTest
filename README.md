@@ -1,4 +1,4 @@
-# Project: Frontend Questions
+# Web Specialist Questions
 
 This repository contains solutions for 3 tasks.  
 Each question is implemented in its own subfolder and can be run independently.
