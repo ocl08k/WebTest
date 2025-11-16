@@ -15,17 +15,20 @@ A simple **Next.js login page** with password validation and welcome/logout func
 ### Steps
 
 1. **Clone the repository**
-```bash```
+```bash
 git clone
 cd login
+```
 
 2. **Install dependencies**
-```bash```
+```bash
 npm install
+```
 
 3. **Start the development server**
-```bash```
+```bash
 npm run dev
+```
 
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
