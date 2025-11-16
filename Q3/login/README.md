@@ -17,7 +17,7 @@ A simple **Next.js login page** with password validation and welcome/logout func
 1. **Clone the repository**
 ```bash
 git clone
-cd login
+cd Q3/login
 ```
 
 2. **Install dependencies**
